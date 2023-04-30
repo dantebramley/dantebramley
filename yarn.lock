@@ -1496,12 +1496,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"clashofclans.js@npm:^2.9.2":
-  version: 2.9.2
-  resolution: "clashofclans.js@npm:2.9.2"
+"clashofclans.js@npm:^3.0.2":
+  version: 3.0.2
+  resolution: "clashofclans.js@npm:3.0.2"
   dependencies:
     node-fetch: ^2.6.7
-  checksum: 378d9066ecc138fa1637980b41324c8e9c398343ae205b24c9b8711b478e9f9cdc85ce09ec0a522b75ebada455942465f81f6dff7e92b6d89cdb0c183fb9a6e9
+  checksum: d7f7679bcd3ee2234c47de50f898c8ecb4fc751dfcc268f9187cfc62a029aff2db4762efb8339061ea879fe0377631292e0d4f43f06aaa007129026358e1c1ea
   languageName: node
   linkType: hard
 
@@ -1537,7 +1537,7 @@ __metadata:
     "@types/prettier": ^2.7.2
     "@typescript-eslint/eslint-plugin": ^5.59.1
     "@typescript-eslint/parser": ^5.59.1
-    clashofclans.js: ^2.9.2
+    clashofclans.js: ^3.0.2
     dayjs: ^1.11.7
     discord.js: ^14.9.0
     dotenv: ^16.0.3
