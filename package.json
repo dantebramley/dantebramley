@@ -34,7 +34,7 @@
         "eslint-config-snail": "^1.6.0",
         "husky": "^8.0.3",
         "joi": "^17.9.2",
-        "prettier": "^2.8.8",
+        "prettier": "^3.0.0",
         "prisma": "^4.13.0",
         "rimraf": "^3.0.2",
         "ts-node": "^10.9.1",
